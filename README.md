@@ -1,4 +1,4 @@
-# Vicroni-analytics
+
 # Hi, I'm Vicroni Abena Agyekum👋
 
 # Data Analyst | SQL | Excel | Tableau | Power BI | Python
