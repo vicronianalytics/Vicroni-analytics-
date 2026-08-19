@@ -35,6 +35,23 @@ Description:
 
 Analyzed Netflix movies and TV shows data to identify content trends, top producing countries, ratings distribution, and yearly growth patterns.
 
+### Supply Chain Performance Dashboard
+
+Tools:
+
+- Power BI
+
+- Data Visualization
+
+-  DAX
+
+- Power Query
+
+Description:
+
+This project focuses on transforming raw supply chain data into meaningful insights that support operational and strategic decision-making. The dashboard provides a centralized view of key performance indicators, logistics, product quality, inventory, and shipping performance.
+
+
 ## Certifications
 
 - Data Analytics Bootcamp
