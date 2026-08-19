@@ -1,9 +1,11 @@
 # Vicroni-analytics
-# Hi, I'm Vicroni Abena 👋
+# Hi, I'm Vicroni Abena Agyekum👋
 
-## Data Analyst
+# Data Analyst | SQL | Excel | Tableau | Power BI | Python
 
-I am passionate about transforming data into meaningful business insights using analytics tools.
+I am a Data Analyst with a background in Economics and Geography and a strong interest in transforming data into meaningful insights. I work with Excel, Power BI, SQL, Tableau, SPSS, STATA and Python for data cleaning, analysis, visualization and reporting.
+
+This GitHub showcases my data analytics projects, dashboards and practical work across business, operational and social datasets.
 
 ## Skills
 
